@@ -1,0 +1,5 @@
+2019/2/12
+參考https://angular.io/guide/quickstart
+使用npm install -g @angular/cli 安裝cli
+使用ng new "angularTest"創建專案
+隨便修改兩下後push上去
